@@ -145,8 +145,3 @@ with st.expander("Click to see each Full Adder in detail"):
 - Carry Out → `{carries[i]}`
 ---
         """)
-```
-
-**Commit message:**
-```
-Fix: merge logic into single app.py to resolve import error
